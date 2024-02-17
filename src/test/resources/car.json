@@ -1,0 +1,13 @@
+{
+  "mark": "Audi",
+  "model": "Q8",
+  "color": "blue",
+  "maxSpeed": 226,
+  "options": ["Audi virtual cockpit Plus", "HomeLink system","Seat and mirror position memory"],
+  "sts": {
+    "number": "X007XP77",
+    "vin": "X7LLSRB1HAH550719",
+    "year": 2021
+  }
+}
+
